@@ -8,7 +8,7 @@ class PlanetRow extends StatelessWidget {
     ),
     alignment: FractionalOffset.centerLeft,
     child: new Image(
-        image: new AssetImage("assets/image/mars.png"),
+        image: new AssetImage('assets/image/mars.png'),
         height: 92.0,
         width: 92.0,
     ),
