@@ -19,7 +19,7 @@ List<Planet> planets = [
     distance: "54.6m Km",
     gravity: "3.711 m/s ",
     description: "Lorem ipsum...",
-    image: "assets/image/mars.png",
+    image: 'assets/image/mars.png',
   ),
   const Planet(
     id: "2",
@@ -28,7 +28,7 @@ List<Planet> planets = [
     distance: "54.6m Km",
     gravity: "3.711 m/s ",
     description: "Lorem ipsum...",
-    image: "assets/image/neptune.png",
+    image: 'assets/image/neptune.png',
   ),
   const Planet(
     id: "3",
@@ -37,7 +37,7 @@ List<Planet> planets = [
     distance: "54.6m Km",
     gravity: "3.711 m/s ",
     description: "Lorem ipsum...",
-    image: "assets/image/moon.png",
+    image: 'assets/image/moon.png',
   ),
   const Planet(
     id: "4",
@@ -46,7 +46,7 @@ List<Planet> planets = [
     distance: "54.6m Km",
     gravity: "3.711 m/s ",
     description: "Lorem ipsum...",
-    image: "assets/image/earth.png",
+    image: 'assets/image/earth.png',
   ),
   const Planet(
     id: "5",
@@ -55,6 +55,6 @@ List<Planet> planets = [
     distance: "54.6m Km",
     gravity: "3.711 m/s ",
     description: "Lorem ipsum...",
-    image: "assets/image/mercury.png",
+    image: 'assets/image/mercury.png',
   ),
 ];
